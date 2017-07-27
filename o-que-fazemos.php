@@ -68,7 +68,7 @@
                 <!-- end .lista-o-que-fazemos -->
                 <h3>Algumas de nossas especialidades são implementar de forma automatizada:</h3>
 
-                <ul>
+                <ul class="lista-bullet-grad no-bullet">
                     <li><p>O controle operacional, tributário, documental e financeiro de suas importações e exportações.</p></li>
                     <li><p>A sugestão de compra de matérias primas e produtos acabadados, considerando seu giro e disponibilidade de estoque, histórico e metas de venda.</p></li>
                     <li><p>A operação do seu armazém utilizando coletores de dados.</p></li>                    

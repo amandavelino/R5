@@ -16,7 +16,25 @@
     </main>
     <?php include("./incs/footer.php"); ?>
     <?php include("./incs/scripts.php");?>
+    <script type="text/javascript" src="./js/spinners/spinners.min.js"></script>
+    <script type="text/javascript" src="./js/lightview/lightview.js"></script>
     <script type="text/javascript" charset="utf-8">
+
+        // jQuery(document).ready(function($) {
+
+        //     Lightview.show({
+
+        //         background: { color: '#fff', opacity: .5 },
+        //         border: 0,
+        //         options: { skin: 'mac' },
+        //         radius: 0,
+        //         skin: 'mac'
+
+        //     });
+
+        // });
+
     </script>
+
 </body>
 </html>
