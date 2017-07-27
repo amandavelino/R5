@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
     <?php include("./incs/head.php"); ?>
-    <link rel="stylesheet" href="./css/prettyPhoto.css">
 </head>
 <body>
     
@@ -17,13 +16,7 @@
     </main>
     <?php include("./incs/footer.php"); ?>
     <?php include("./incs/scripts.php");?>
-    <script src="./js/jquery.prettyPhoto.js"></script>
     <script type="text/javascript" charset="utf-8">
-        $(document).ready(function(){
-            $("a[rel^='prettyPhoto']").prettyPhoto({
-                theme:'light_square'
-            });
-        });
     </script>
 </body>
 </html>

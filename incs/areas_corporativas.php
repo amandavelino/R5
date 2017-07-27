@@ -11,7 +11,7 @@
         <ul class="lista-corporativas">
             
             <li class="item-area">
-                <a href="#">
+                <a href="#areas_cp_01" rel="prettyPhoto[pp_gal]">
                     <div class="svg">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.89 56.25"><defs><style>.cls-1{fill:#283a53;}</style></defs><title>business</title><g id="Camada_2" data-name="Camada 2"><g id="Camada_1-2" data-name="Camada 1"><path class="cls-1" d="M65.79,11.33A2,2,0,0,0,64.21,10L57.07,8.9,54,2.25a2,2,0,0,0-3.59,0l-3,6.42A30.34,30.34,0,0,0,26.37,0H22.85V5.27a25.56,25.56,0,0,0,2.64,51A25.48,25.48,0,0,0,48.76,41.13l4,1.06a25.18,25.18,0,0,0,3.52-13.06c0-.7,0-1.39-.08-2.07l2.23,1.24a2,2,0,0,0,2.91-2.07l-1.21-7.48,5.23-5.39A2,2,0,0,0,65.79,11.33Zm-40.3,41.4a22,22,0,0,1-22-22c0-11.06,8.64-20.43,19.33-22v23.6l22.34,7.78C42.22,47.68,33.68,52.73,25.49,52.73ZM50.18,38,26.37,29.88V3.52a26,26,0,0,1,16.5,6.06L40.13,10A2,2,0,0,0,39,13.36l5.23,5.39L43,26.23a2,2,0,0,0,.81,2,2,2,0,0,0,2.1.12l6.19-3.44a23.2,23.2,0,0,1,.41,4.27A17.29,17.29,0,0,1,50.18,38ZM58.5,17.3A2,2,0,0,0,58,19l1.18,7.3L53.1,22.89a1.91,1.91,0,0,0-1.87,0l-6.06,3.37L46.36,19a2,2,0,0,0-.52-1.67L40.75,12,47.69,11a1.93,1.93,0,0,0,1.45-1.1l3-6.49,3,6.49A1.93,1.93,0,0,0,56.64,11L63.59,12Z"/></g></g></svg>
                     </div>
@@ -21,7 +21,7 @@
                 </a>
             </li>
             <li class="item-area">
-                <a href="#" data-toggle="lightbox" data-gallery="verticais">
+               <a href="#areas_cp_02" rel="prettyPhoto[pp_gal]">
                     <div class="svg">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.9 55.07"><defs><style>.cls-1{fill:#283a53;}</style></defs><title>comercio</title><g id="Camada_2" data-name="Camada 2"><g id="Camada_1-2" data-name="Camada 1"><circle class="cls-1" cx="36.87" cy="52.73" r="2.34"/><path class="cls-1" d="M52.16,29.37A26.18,26.18,0,1,0,40.55,48.06h9.17a4.67,4.67,0,0,0,4.67-4.67l3.5-14Zm-16.29,0q0-.77.06-1.55H49c0,.52-.09,1-.17,1.55Zm-4.19-1.55h1q0,.78-.07,1.55h-.42Zm-1-3.27L29.25,20H21.69a1.17,1.17,0,0,0,0,2.34h5.84l.73,2.18H19.71a57.07,57.07,0,0,1,.84-8.44c1.84.16,3.72.26,5.63.26s3.79-.09,5.63-.26a57.18,57.18,0,0,1,.84,8.44Zm-1.3,3.27.52,1.55h0L31,36.19c-1.58-.12-3.19-.19-4.82-.19-1.91,0-3.79.09-5.63.26a57.07,57.07,0,0,1-.84-8.44Zm15.8-14.45A22.72,22.72,0,0,1,49,24.55H35.93a62.87,62.87,0,0,0-.82-8.85A57.35,57.35,0,0,0,45.16,13.37ZM42.9,10.55a54.29,54.29,0,0,1-8.43,1.92A53.29,53.29,0,0,0,31.8,4,22.94,22.94,0,0,1,42.9,10.55ZM24.59,3.35c.53,0,1.05-.08,1.59-.08s1.06,0,1.59.08a49,49,0,0,1,3.36,9.55c-1.63.14-3.28.23-4.95.23s-3.32-.08-4.94-.23A49,49,0,0,1,24.59,3.35Zm-4,.64a53.29,53.29,0,0,0-2.67,8.48,54.27,54.27,0,0,1-8.43-1.92A22.94,22.94,0,0,1,20.56,4ZM7.21,13.37a57.37,57.37,0,0,0,10,2.33,62.88,62.88,0,0,0-.82,8.85H3.34A22.72,22.72,0,0,1,7.21,13.37ZM7.21,39A22.72,22.72,0,0,1,3.34,27.82h13.1a62.88,62.88,0,0,0,.82,8.85A57.52,57.52,0,0,0,7.21,39Zm2.25,2.82a54.44,54.44,0,0,1,8.43-1.92,53.28,53.28,0,0,0,2.67,8.48A22.94,22.94,0,0,1,9.46,41.81ZM27.77,49c-.53,0-1.05.08-1.59.08s-1.06,0-1.59-.08a48.92,48.92,0,0,1-3.36-9.55c1.63-.14,3.28-.23,4.94-.23s3.32.08,4.95.23A49,49,0,0,1,27.77,49Zm5-3.33a4.69,4.69,0,0,0,1.78,1.78,22.67,22.67,0,0,1-2.79.91C32.16,47.5,32.49,46.6,32.81,45.68Zm19.25-2.29a2.34,2.34,0,0,1-2.34,2.34H36.87a2.34,2.34,0,0,1-2.34-2.34L32.59,31.71H55Z"/><circle class="cls-1" cx="48.56" cy="52.73" r="2.34"/></g></g></svg>
                     </div>
@@ -97,6 +97,12 @@
 </section><!-- end#areas_corporativas -->
 
 <div id="areas_cp_01" class="hide">
-	<p>This is inline content opened in prettyPhoto.</p>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
+    <p>This is inline content opened in prettyPhoto 01</p>
+    <p>This is inline content opened in prettyPhoto 01</p>
+    <p>This is inline content opened in prettyPhoto 01</p>
+    <p>This is inline content opened in prettyPhoto 01</p>
+</div>
+
+<div id="areas_cp_02" class="hide">
+	<p>This is inline content opened in prettyPhoto 02</p>
 </div>
