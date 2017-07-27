@@ -1,0 +1,72 @@
+.navbar-nav > li
+{
+    text-align: center;
+    position: relative;
+}
+
+.navbar-nav > li:after 
+{
+    content: "";
+    background-color: #fff;
+    position: absolute;
+    padding: 5px 0;
+    width: 1px;
+    z-index: 5;
+    right: 0;
+    top: 25%;
+    height: 50%;
+}
+
+.navbar-nav > li:last-child:after
+{
+    display: none;
+    visibility: hidden;
+} 
+
+.navbar-nav > li > a
+{
+    background-color: #7cb9b2;
+    color: #183652;
+    display: block;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    text-transform: uppercase;
+
+    -webkit-transition: background-color .5s ease-in-out;
+    -moz-transition: background-color .5s ease-in-out;
+    -ms-transition: background-color .5s ease-in-out;
+    -o-transition: background-color .5s ease-in-out;
+    transition: background-color .5s ease-in-out;    
+}
+
+.navbar-nav > li.active > a,
+.navbar-nav > li:hover > a:focus,
+.navbar-nav > li:hover > a:active,
+.navbar-nav > li:hover > a,
+.nav > li > a:focus,
+.nav> li > a:hover 
+{
+    background-color: #e2d086;
+}
+
+.navbar-nav
+{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand
+{
+    height: auto;
+}
+
+.navbar-toggle
+{
+    margin-top: 45px;
+}
+
+.navbar-toggle .icon-bar
+{
+    background: #183652;
+}

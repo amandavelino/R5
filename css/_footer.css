@@ -1,0 +1,110 @@
+footer#footer-principal 
+{
+    background-color: #4c515b;
+}
+
+.logo-footer
+{
+    margin: 3em 0 0;
+}
+
+footer small 
+{
+    display: inline-block;
+    font-size: 1em;
+}
+
+footer h6 
+{
+    color: #fff;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-size: 1.4em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+footer p,
+footer li,
+footer li a
+{
+    color: #909aad;
+    margin: 0;
+    line-height: 1.8em;
+}
+
+footer a:hover
+{
+    color: #e7f4f8;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;       
+}
+
+footer ul,
+footer ul li 
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer li span 
+{
+    color: #e7f4f8;
+}
+
+.menu-footer li a 
+{
+    display: inline-block;
+    font-size: 1.5em;
+    line-height: 1em;
+    padding: .3em 0;
+}
+
+.redes-sociais li 
+{   
+    float: left;
+    text-align: center;
+    margin-right: 1em;
+}
+
+.redes-sociais li a 
+{
+    border: 2px solid #e7f4f8;
+    border-radius: 100%;
+    box-sizing: border-box;
+    display: block;    
+    width: 35px;
+    height: 35px;    
+    padding: 5px;
+
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;   
+}
+
+.redes-sociais li:hover a
+{
+    border: 2px solid #909aad;
+    color: #909aad;
+}
+
+.redes-sociais li i 
+{
+    color: #e7f4f8;
+
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;     
+}
+
+.redes-sociais li:hover i
+{
+    color: #909aad;
+}
