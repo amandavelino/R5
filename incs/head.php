@@ -10,4 +10,4 @@
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700,700i,900|Montserrat:600,700|Open+Sans" rel="stylesheet">
 <!-- LightView LightBox-->
 <link rel="stylesheet" type="text/css" href="./css/lightview/lightview.css">
-<link rel="stylesheet" href="./css/styles.css">
+<link rel="stylesheet" href="./css/styles.min.css">
