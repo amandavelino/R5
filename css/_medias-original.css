@@ -20,20 +20,9 @@
             box-sizing: border-box;
         }
 
-}
-
-@media only screen and (max-width: 1200px){
-    .sessao-destaque img {width: 140px;}
-}
+}  
 
 @media only screen and (max-width: 991px) {
-
-    /* Nav */
-        
-        .navbar-nav > li > a
-        {
-            font-size: 1.2em;
-        }
 
     /* Geral */
 
@@ -52,72 +41,81 @@
         {
             font-size: 1.2em;
         }
+
+    /* Nav */
         
-    /* Nossos Produtos */
-
-        .lista-produtos h5
+        .navbar-nav > li > a
         {
-            font-size: 1.5em;
-            width: 75%;
+            font-size: 1.2em;
         }
 
-        .lista-produtos > li
-        {
-            width: 50%;
-            height: 255px;
-            margin-bottom: 1em;
-        }
+    /* ------------ Home ------------ */
 
-        .lista-produtos > li:nth-child(2):after,
-        .lista-produtos li:last-child:after
-        {
-            display: none;
-        }        
+        /* Nossos Produtos */
+
+            .lista-produtos h5
+            {
+                font-size: 1.5em;
+                width: 75%;
+            }
+
+            .lista-produtos > li
+            {
+                width: 50%;
+                height: 255px;
+                margin-bottom: 1em;
+            }
+
+            .lista-produtos > li:nth-child(2):after,
+            .lista-produtos li:last-child:after
+            {
+                display: none;
+            }        
+            
+            .lista-produtos .dashed
+            {
+                padding: 0;
+                text-align: center;
+            }
         
-        .lista-produtos .dashed
-        {
-            padding: 0;
-            text-align: center;
-        }
+        /* Newsletter */
 
-    /* Newsletter */
+            #newsletter header h3
+            {
+                font-size: 2.3em;
+            }
 
-        #newsletter header h3
-        {
-            font-size: 2.3em;
-        }
+            .form-newsletter input
+            {
+                font-size: 1.25em;
+                padding: 1.3em;
+            }        
 
-        .form-newsletter input
-        {
-            font-size: 1.25em;
-            padding: 1.3em;
-        }
+        /* Listas Corporativas */
 
-    /* Listas Corporativas */
+            .lista-corporativas li
+            {
+                width: 33.13%;
+            }
 
-        .lista-corporativas li
-        {
-            width: 33.13%;
-        }
+            .lista-corporativas li a
+            {
+                padding: 3em 0 2em 0;
+            }
 
-        .lista-corporativas li a
-        {
-            padding: 3em 0 2em 0;
-        }
+            .lista-corporativas h5
+            {
+                font-size: 1.4em;
+            } 
 
-        .lista-corporativas h5
-        {
-            font-size: 1.4em;
-        } 
+            /* Blog Home */
 
-    /* Blog Home */
-
-        .item-blog h5
-        {
-            font-size: 1.7em;
-        }   
-
-    /* Quem Somos */
+                .item-blog h5
+                {
+                    font-size: 1.7em;
+                }        
+            
+    /* ------------ Quem Somos ------------ */
 
         .sessao .valor h4
         {
@@ -162,15 +160,15 @@
             padding: 0;
             text-align: justify;
         }
-    
-    /* O que fazemos */
+
+    /* ------------- O que fazemos ------------- */
 
         .sessao-destaque ul
         {
             padding: 0 5em;
         }
-    
-    /* Blog */
+
+    /* ------------- Blog -------------- */
 
         .filtros li a
         {
@@ -208,7 +206,7 @@
         {
             font-size: 1.4em;
             line-height: 1.5em;
-        }    
+        }
 
     /* Produtos */
 
@@ -235,10 +233,10 @@
         {
             margin-bottom: 2em;
         }
+            
+}  
 
-}
-
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 768px){
 
     /* Header */
 
@@ -280,7 +278,7 @@
             text-align: center;
         }
 
-    /* Home */
+    /* ----------------- Home ------------- */
 
         /* Listas Corporativas */
 
@@ -318,7 +316,7 @@
                 text-align: center;
             }   
 
-    /* Quem Somos */
+    /* ------------ Quem Somos ------------ */
 
         .sessao .valor h4
         {
@@ -335,24 +333,19 @@
             margin: 1em 0 6em;
         }            
 
-        .valores-destaque li h5
-        {
-            font-size: 2.2em;
-        }
-
         .valores-destaque li figure
         {
             display: none;
         }
     
-    /* O que fazemos */
+    /* ------------ O que fazemos ------------ */
 
         .sessao-destaque h3
         {
             padding: 2em;
         }
     
-    /* Blog */
+    /* -------------- Blog --------------- */
 
         .filtro-busca
         {
@@ -415,7 +408,7 @@
             padding: .8em 1em;
         }
 
-    /* Contato */
+    /* ------------- Contato ------------- */
     
         .box-destaque header
         {
@@ -433,7 +426,7 @@
         }
         
 } 
-
+    
 @media only screen and (max-width: 600px){
 
     /* Home */
@@ -532,7 +525,7 @@
 
         .sessao
         {
-            padding: 4em 0;
+            padding: 2em 0;
         }
 
         main header h2,

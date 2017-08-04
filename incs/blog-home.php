@@ -14,9 +14,9 @@
 
                 <article>
                     <figure>
-                        <img src="http://lorempixel.com/400/300/abstract/1" border="0">
+                        <a href="#"><img src="http://lorempixel.com/400/300/abstract/1" border="0"></a>
                     </figure>
-                    <h5>Lorem Ipsum is simply dummy text of the printing and</h5>
+                    <h5><a href="#">Lorem Ipsum is simply dummy text of the printing and</a></h5>
                     <time datetime="20170324">24 Março 2017</time>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     <a href="#" class="ler-mais">Continuar lendo</a>
@@ -28,9 +28,9 @@
 
                 <article>
                     <figure>
-                        <img src="http://lorempixel.com/400/300/abstract/3" border="0">
+                        <a href="#"><img src="http://lorempixel.com/400/300/abstract/3" border="0"></a>
                     </figure>
-                    <h5>Lorem Ipsum is simply dummy text of the printing and</h5>
+                    <h5><a href="#">Lorem Ipsum is simply dummy text of the printing and</a></h5>
                     <time datetime="20170324">24 Março 2017</time>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     <a href="#" class="ler-mais">Continuar lendo</a>                    
@@ -42,9 +42,9 @@
 
                 <article>
                     <figure>
-                        <img src="http://lorempixel.com/400/300/abstract/4" border="0">
+                        <a href="#"><img src="http://lorempixel.com/400/300/abstract/4" border="0"></a>
                     </figure>
-                    <h5>Lorem Ipsum is simply dummy text of the printing and</h5>
+                    <h5><a href="#">Lorem Ipsum is simply dummy text of the printing and</a></h5>
                     <time datetime="20170324">24 Março 2017</time>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     <a href="#" class="ler-mais">Continuar lendo</a>                    

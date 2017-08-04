@@ -2,13 +2,16 @@
     <div class="container">
 
         <div id="topo_header" class="row">
-            <a href="index.php"><img class="pull-left col-lg-3 col-md-3 col-sm-3 col-xs-3" src="./imgs/r5.png" alt="R5 - Soluções Tecnológicas" border="0"></a>
+            <h1>
+                <span class="sr-only">R5 Comunicação</span> 
+                <a href="index.php"><img class="pull-left col-lg-3 col-md-3 col-sm-3 col-xs-3" src="./imgs/r5.png" alt="R5 Comunicação" border="0"></a>   
+            </h1>
             <div class="area_cliente pull-right col-lg-9 col-md-9 col-sm-9 col-xs-9">
                 <div class="icon-ext">
                     <span class="icon"><i class="fa fa-user-o fa-lg" aria-hidden="true"></i></span>
                 </div>
                 <!-- end .icon-ext -->
-                <a href="#">Área do cliente</a>
+                <a href="#" target="_blank">Área do cliente</a>
             </div>
         </div>
         <!-- end #topo_header -->

@@ -8,9 +8,14 @@
     max-width: 100%;
 }
 
-.item-blog h5 
+.item-blog h5,
+.item-blog h5 a 
 {
     color: #283a53;
+}
+
+.item-blog h5
+{
     font-size: 2em;
     font-weight: 700;
     line-height: 1.2em;
